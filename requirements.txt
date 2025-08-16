@@ -4,4 +4,5 @@ beautifulsoup4==4.12.2
 feedparser==6.0.10
 apscheduler==3.10.1
 pytz==2023.3
+backports.cgi==1.2.1  # Ajoutez cette ligne
 gunicorn==21.2.0
